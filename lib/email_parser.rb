@@ -17,4 +17,3 @@ class EmailParser
     email_array
   end
 end
-end
